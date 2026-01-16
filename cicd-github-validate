@@ -1,0 +1,16 @@
+✓ main CI workflow · 21066583490
+Triggered via push about 42 minutes ago
+
+✓ build in 12s (ID 60585318754)
+  ✓ Set up job
+  ✓ Checkout
+  ✓ Setup Node.js
+  ✓ Install dependencies
+  ✓ Lint with ESLint
+  ✓ Run unit tests with Jest
+  ✓ Post Setup Node.js
+  ✓ Post Checkout
+  ✓ Complete job
+
+To see the full job log, try: gh run view --log --job=60585318754
+View this run on GitHub: https://github.com/YerosenHunduma/ci-cd-final-project/actions/runs/21066583490
